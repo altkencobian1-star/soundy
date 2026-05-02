@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/altkencobian1-star/soundyfrontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/altkencobian1-star/soundybackend.git
